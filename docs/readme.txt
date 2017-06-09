@@ -1,1 +1,1 @@
-Some docs about the project.9
+Some docs about the project.
